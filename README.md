@@ -1,14 +1,13 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
 <h3 align="left"> 
-  🌎 Hi, I'm <strong>Elif</strong>. I am <strong>Software Developer</strong> and <strong>mathematician</strong>.
+  🌎 Hi, I'm Elif. I am Software Developer and mathematician.
 </h3>
 <br>
 
 <h3 align="left">
   🔭 Languages and Tools
 </h3><br>
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Php"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
