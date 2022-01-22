@@ -36,4 +36,9 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=blue"
   </a>
+  <a href="https://www.hackerrank.com/elif_kepenek">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Hackerrank-1C1C1C?style=for-the-badge&logo=hackerrank&logoColor=darkgreen">
+  </a>
 </p>
